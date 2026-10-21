@@ -1,0 +1,6 @@
+{
+  "name": "TokRecord",
+  "description": "TikTok live stream recorder that checks if a user is online, records live streams to MP4 format, and saves them directly into phone shared storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
